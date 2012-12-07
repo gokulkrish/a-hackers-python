@@ -7,8 +7,8 @@ A Hacker's Python
 
 Welcome to A Hacker's Python.
 
-**This guide is a work in progress. If you'd like to help, please `fork us
-on GitHub <https://github.com/mwielgoszewski/a-hackers-python>`_!**
+**This guide is a work in progress.** If you'd like to help, please `fork us
+on GitHub <https://github.com/mwielgoszewski/a-hackers-python>`_!
 
 *A Hacker's Python* aims to serve hackers starting with Python to quickly grow
 and advance their programming skillset to solve everyday security problems.
