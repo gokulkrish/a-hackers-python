@@ -21,3 +21,9 @@ Topics include:
 - Developing reusable API's
 - Testing your tools
 - What libraries to use for what
+
+Further Reading?:
+- `Code Like a Pythonista: Idiomatic Python <http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html>`_
+- `A Guide to Python's Magic Methods <http://www.rafekettler.com/magicmethods.html>`_
+- `A few useful bytearray tricks <http://dabeaz.blogspot.com/2010/01/few-useful-bytearray-tricks.html>`_
+- `Better Python API's <http://ozkatz.github.com/better-python-apis.html>`_
